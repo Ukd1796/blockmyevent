@@ -1,4 +1,4 @@
-# TicketMaster
+# Block My Event
 
 Block My Event is a decentralized ticketing platform built with ReactJS, Hardhat, and Solidity. Users can buy tickets for various events using Ethereum (ETH) and enjoy a secure and transparent ticketing experience.
 
