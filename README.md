@@ -2,6 +2,8 @@
 
 In response to the pervasive issue of unfair and insecure event ticketing, which has seen concert tickets fall into the hands of scalping bots and sold at exorbitant prices on the black market, we want to transform the ticketing industry to a more secure haven. Our primary motivation is to create a system that champions the interests of genuine fans. To tackle this problem, we've harnessed the potential of blockchain and Ethereum technology to establish Block my Event, groundbreaking ticketing platform which operates by issuing tickets, ensuring their authenticity and effectively thwarting scalpers from exploiting fans. Our ultimate goal is to eliminate ticket scarcity and the associated scalping woes, ushering in a new era where events become accessible, enjoyable, and secure for everyone.
 
+Demonstration: https://youtu.be/ZpKOxjctI4Q
+
 ## Features
 <img width="725" alt="Screenshot 2023-10-27 at 12 35 56 PM" src="https://github.com/Ukd1796/blockmyevent/assets/71224019/dc457e34-9b31-445d-9962-b709669a7c18">
 
